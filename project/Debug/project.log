@@ -1,0 +1,10 @@
+﻿  Board.cpp
+D:\Downloads\project\project\Board.cpp(329,20): warning C4553: '==': result of expression not used; did you intend '='?
+  Cal_time.cpp
+D:\Downloads\project\project\Cal_time.cpp(44,19): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\project\project\Cal_time.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+  matching.cpp
+  Source.cpp
+D:\Downloads\project\project\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  project.vcxproj -> D:\Downloads\project\project\Debug\project.exe

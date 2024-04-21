@@ -1,0 +1,7 @@
+6 12 
+* * * * * * * * * * * *
+* a b a c x x x x x x *
+* c a a c x x x x x x *
+* d b a c x x x x x x *
+* a a d a x x x x x x *
+* * * * * * * * * * * *
